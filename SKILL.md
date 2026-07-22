@@ -1,7 +1,7 @@
 ---
 name: desktop-pet-workshop
 description: Transform photos into interactive desktop pets — auto subject detection, background removal, Q-style cute makeover, 5+ animated actions, and interaction logic. Outputs a ready-to-install desktop pet application (.exe for Windows, .dmg for Mac). 将实拍照片转为可互动桌面萌宠，完成抠图、萌化、多动作动效生成、交互配置全流程，最终输出可安装的桌面宠物应用程序。
-version: 2.0.0
+version: 2.0.1
 allowed-tools:
   - ImageGen
 metadata:
